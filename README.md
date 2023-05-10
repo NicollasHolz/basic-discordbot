@@ -1,1 +1,1 @@
-# Little project for a discord bot in javascript
+# A little project for a basic discord bot in javascript
